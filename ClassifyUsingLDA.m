@@ -23,7 +23,7 @@ for i=0:19
    
 end
 
-
+%this is an example
 Xr=zscore(STDMMYO);
 %  Y = [zeros(20,1); ones(20,1)];
 
